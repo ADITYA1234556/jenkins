@@ -20,5 +20,9 @@ node
     {
         echo "This is Application Logs Monitorinig using tool Splunk............."
     }
+     stage('Aditya')
+    {
+        echo "This is Application Logs Aditya using tool Splunk............."
+    }
 }
 
